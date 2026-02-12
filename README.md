@@ -13,6 +13,8 @@
 ## Overview
 Aegis is a privacy-first OTC (Over-The-Counter) trading platform built on the **Midnight Network**. It allows parties to negotiate and execute large crypto trades without revealing their intentions to the public market ("dark pool" trading). It leverages Zero-Knowledge (ZK) proofs to ensure trade details and identities remain confidential until settlement.
 
+## Contract Address
+08d61c922a5649f9c42c20e5d5b2a9cb0a9ad3ce0048a43ed39e83ee18113735
 ## Key Features
 - **Private Swaps**: Execute large orders without moving the market.
 - **Zero-Knowledge Privacy**: Uses Midnight's Compact smart contracts to verify assets without exposing keys.
