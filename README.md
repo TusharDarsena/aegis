@@ -19,6 +19,18 @@ Aegis is a privacy-first OTC (Over-The-Counter) trading platform built on the **
 - **RFQ "Whisper Room"**: Off-chain negotiation server for private price agreement.
 - **Replay Protection**: Secure order tracking to prevent double-spending.
 
+## Screenshots
+
+![Development Environment](./image.png)
+
+![Dashboard](./2026-02-13%20(37).png)
+
+![Trading Interface](./2026-02-13%20(38).png)
+
+![Swap Widget](./2026-02-13%20(39).png)
+
+![Active Orders](./2026-02-13%20(40).png)
+
 ## Project Structure
 | Directory | Description |
 |-----------|-------------|
